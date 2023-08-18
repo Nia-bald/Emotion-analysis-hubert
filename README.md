@@ -1,4 +1,4 @@
-# Sentiment-analysis-hubert
+# Emotion-analysis-hubert
 
 performs sentiment analysis throughout an audio file
 
